@@ -1,8 +1,7 @@
-package hello
-
-import "fmt"
+package main
 
 // World prints Hello World
-func World() {
-	fmt.Println("Hello World")
+func World() string{
+	return "Hello World"
 }
+
