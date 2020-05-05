@@ -1,4 +1,4 @@
-package another
+package nuthan
 
 // Speak returns I am speaking
 func Speak() string{
