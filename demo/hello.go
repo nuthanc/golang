@@ -2,7 +2,7 @@ package hello
 
 import "fmt"
 
+// World prints Hello World
 func World() {
-	// Prints Hello World
 	fmt.Println("Hello World")
 }
