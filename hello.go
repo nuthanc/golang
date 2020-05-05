@@ -1,4 +1,4 @@
-package another
+package nuthan
 
 // Hello returns Hello Nuthan
 func Hello() string{
