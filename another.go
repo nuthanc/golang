@@ -1,4 +1,4 @@
-package another
+package hello
 
 // Speak returns I am speaking
 func Speak() string{
